@@ -1,0 +1,15 @@
+{
+  "server": {
+    "publicKey": "AAAAILldowmZ8x2YgR1VgDvJusO5bHHLdWmx/PxYHis5supt+3F6p8A91i5iP5Avy5/cLAW4EgB77At0wG4edBk/SLs="
+  },
+  "client": {
+    "publicKey": "AAAAINA18NPHYTIpVkxX/3h1bd335ilpb2X3ss/ucmmgmRlUEGRqojYdBi0oS0Sk89zWRDXHUtj+h+jDsGjb8Fyhm4E="
+  },
+  "clientPrivateKey": "quKucK1eKPiVJMLt68jMZaBwj2/fQ6moVDhn6ILCzcQ=",
+  "serverPrivateKey": "6ptuFHwYEparGJFwhyZh4oF9FP2QqqRx4mnkFXaG1hg=",
+  "clients": [
+    {
+      "publicKey": "AAAAINA18NPHYTIpVkxX/3h1bd335ilpb2X3ss/ucmmgmRlUEGRqojYdBi0oS0Sk89zWRDXHUtj+h+jDsGjb8Fyhm4E="
+    }
+  ]
+}
